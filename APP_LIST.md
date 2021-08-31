@@ -10,7 +10,7 @@
 1. Visual Studio Code
 2. Neovim
 3. Kite
-4. Node y NPM
+4. Node and NPM
 5. Git
 
 **Media**
