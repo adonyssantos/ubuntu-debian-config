@@ -20,7 +20,7 @@ Install dev apps
 
 ```bash
 # Visual Stuio Code
-sudo apt install code
+sudo snap install code
 
 # Vim
 sudo apt install vim
@@ -29,7 +29,7 @@ sudo apt install vim
 sudo apt install git
 
 # Node & NPM
-sudo apt install -y node npm
+sudo snap install -y node npm
 
 # Curl
 sudo apt install -y curl snap
